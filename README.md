@@ -1,4 +1,4 @@
-# Json Exporter
+# Spring MS Exporter
 ![TravisCI build status](https://travis-ci.org/tolleiv/spring-ms-exporter.svg?branch=master)
 [![Docker Build Statu](https://img.shields.io/docker/build/tolleiv/spring-ms-exporter.svg)](https://hub.docker.com/r/tolleiv/spring-ms-exporter/)
 
